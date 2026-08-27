@@ -63,6 +63,16 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
 
+## Cortical and subcortical parcellations
+
+`codes/figures/_atlases/` and `codes/HCP/data/Schaefer2018_400Parcels_7Networks_order_Tian_Subcortex_S3_label.txt`
+contain the Schaefer 400-parcel 7-network atlas (Schaefer et al., *Cereb Cortex* 2018;
+MIT license, github.com/ThomasYeoLab/CBIG) and the Tian S3 subcortical atlas
+(Tian et al., *Nat Neurosci* 2020; github.com/yetianmed/subcortex). Please cite the
+original publications when using these files.
+
+---
+
 ## Human Connectome Project data
 
 The analyses in this repository use data from the WU-Minn Human Connectome
