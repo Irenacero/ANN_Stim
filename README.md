@@ -655,3 +655,11 @@ This confirms that quick figure reproduction does not depend on the omitted
 multi-GB EC/BEC tensors or step-4 dataframes.
 
 ---
+
+# 12. License
+
+The code in this repository is released under the **MIT License** (see `LICENSE`).
+Third-party data redistributed here (the Hansen et al. 2022 PET receptor maps
+under `codes/HCP/data/Receptor_maps/`, CC BY-NC-SA 4.0, and the Schaefer/Tian
+atlas files under `codes/figures/_atlases/`) retain their original licenses and
+attribution requirements; see `THIRD_PARTY_DATA.md`.
