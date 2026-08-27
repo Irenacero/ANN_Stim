@@ -1,0 +1,12 @@
+brainspace==0.2.1
+h5py==3.16.0
+matplotlib==3.10.9
+neuromaps==0.0.7
+nibabel==5.4.2
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+seaborn==0.13.2
+surfplot==0.2.0
+torch==2.13.0
