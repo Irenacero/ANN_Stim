@@ -13,7 +13,7 @@ The repository contains:
 - compact downstream results and figure caches so that the figures can be
   reproduced without distributing the very large intermediate EC/BEC tensors.
 
-The repository supports two modes of use:
+The repository supports two modes of use: 
 
 1. **Quick figure reproduction** using the compact outputs included here.
 2. **Full analysis reconstruction** starting from the original HCP data.
