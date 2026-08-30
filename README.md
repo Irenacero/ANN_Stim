@@ -546,7 +546,7 @@ Pearson r                    0.999999982
 
 All values were within `1e-5` of the original.
 
-## Step-4 EC/BEC state-dependence analysis
+## EC/BEC state-dependence analysis
 
 A complete subject was regenerated for both EC and BEC.
 
@@ -554,7 +554,7 @@ Direct quantities matched at numerical precision. ANN-forward-derived quantities
 had relative L2 errors below approximately `7e-7`, with correlations effectively
 equal to 1.
 
-## Step-6 spatial dataframe
+## Spatial dataframe
 
 The final EC dataframe contains 40,000 × 52 entries.
 
